@@ -11,7 +11,7 @@ import { templatePrompts } from "../utils/constants";
 
 // Components
 import Layout from "../components/layout";
-import SearchBox from "../components/ui/searchbox";
+import SearchBox from "../components/ui/SearchBox";
 import ChatCard from "../components/ui/chatCard";
 import Button from "../components/ui/Button";
 import MessagePanel from "../components/ui/MessagePanel";
